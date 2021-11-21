@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Abu Sayem Sarkar",
+      "age": 22
+    },
+    {
+      "name": "Muhammad Kabir Sarkar",
+      "age": 65,
+      "id": 2
+    },
+    {
+      "name": "Abdul Mannan Sarkar",
+      "age": 80,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Nazrul Islam Sayem",
+      "age": 23
+    },
+    {
+      "name": "Niyaz Uddin Sarkar",
+      "age": 0,
+      "id": 5
+    },
+    {
+      "name": "Muhammad Abu Sayem Sarkar",
+      "age": 23,
+      "id": 6
+    },
+    {
+      "name": "Muhammad Abu Sayem Sarkar",
+      "age": 85,
+      "id": 7
+    }
+  ]
+}
